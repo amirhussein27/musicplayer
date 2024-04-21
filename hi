@@ -10,6 +10,7 @@
 
     <div class="bg-container">
         <img src="" alt="" id="background">
+<br>
     </div>
     <div class="player-container">
         <!-- Song -->
